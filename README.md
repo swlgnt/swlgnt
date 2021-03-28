@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @swlgnt
+- 👋 Hi, I’m Galandaru Swalaganata
 - 👀 I’m interested in web and mobilr programming
 - 🌱 I’m currently learning laravel 8 and ci 4
 - 💞️ I’m looking to collaborate on campus project
